@@ -1,3 +1,4 @@
+# Tromino Solver
 Lab 7 for CMPT 306 Algorithms
 
 Code that can solve any tromino puzzle via recursion.
